@@ -40,7 +40,7 @@ Note that we do not accept Pull Requests via the Github mirror.
 
 ## Getting in contact
 
-The Developer Mailing list is [repo-discuss on Google Groups](https://groups.google.com/forum/#!forum/repo-discuss).
+The Developer Mailing list is [repo-discuss on Google Groups](https://groups.google.com/forum/#!forum/repo-discuss).The owner name is Mr. Mohamad Alip Bin Abdullah 
 
 ## License
 
